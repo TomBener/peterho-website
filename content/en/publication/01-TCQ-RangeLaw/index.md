@@ -2,8 +2,8 @@
 title: "The Clash over State and Collective The Making of the Rangeland Law"
 authors:
 - admin
-date: "2019-12-11T00:00:00Z"
-doi: "sci-hub.tw/10.1017/S030574100000401X"
+date: "2019-12-11"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2000-03"
@@ -25,10 +25,10 @@ abstract: “Do you have some material about rangeland laws and regulations in t
 
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: /static/pdf/articles/01-TCQ-RangeLaw.pdf
+links:
+- name: Share
+  url: https://sci-hub.tw/10.1017/S030574100000401X
+url_pdf: https:///static/pdf/articles/01-TCQ-RangeLaw.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
