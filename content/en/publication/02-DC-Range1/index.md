@@ -15,7 +15,7 @@ publishDate: "2002-12-16"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Development and Change*"
+publication: "*Development and Change* 31: 385-412"
 publication_short: ""
 
 abstract: China’s economic reforms have exacerbated the problems of over‐grazing and desertification in the country’s pastoral areas. In order to deal with rangeland degradation, the Chinese government has resorted to nationalization, or semi‐privatization. Since the implementation of rangeland policy has proved very difficult, however, experiments with alternative rangeland tenure systems merit our attention. In Ningxia, in northwest China, local attempts have been undertaken to establish communal range management systems with the village as the basic unit of use and control. Some of these management regimes are under severe stress, due to large‐scale digging for medicinal herbs in the grasslands. This digging has resulted in serious conflicts between Han and Hui Muslim Chinese, during which several farmers have been killed. It is against this backdrop that this article explores the institutional dynamics of range management in two different villages.
