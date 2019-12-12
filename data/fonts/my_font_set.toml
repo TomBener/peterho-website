@@ -1,5 +1,5 @@
 # Font style metadata
-name = "Rose"
+#name = "Rose"
 
 # Optional Google font URL
 google_fonts = "Cutive+Mono|Lora:400,700|Roboto:400,700"
@@ -8,4 +8,4 @@ google_fonts = "Cutive+Mono|Lora:400,700|Roboto:400,700"
 heading_font = "Lora"
 body_font = "Roboto"
 nav_font = "Lora"
-mono_font = "Cutive Mono"
+mono_font = "Roboto Mono"
