@@ -1,5 +1,5 @@
 ---
-title: Media Report
+title: Media
 event: Academic Theme Conference
 event_url: https://example.org
 
