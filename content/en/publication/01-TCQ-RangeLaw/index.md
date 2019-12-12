@@ -28,7 +28,7 @@ featured: false
 links:
 - name: Share
   url: https://sci-hub.tw/10.1017/S030574100000401X
-url_pdf: /pdf/articles/01-TCQ-RangeLaw.pdf
+url_pdf: /publication/01-tcq-rangelaw/01-TCQ-RangeLaw.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
