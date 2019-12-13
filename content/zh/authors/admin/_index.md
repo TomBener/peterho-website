@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: 何佩生
 
 # Username (this should match the folder name)
 authors:
@@ -14,8 +14,10 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: 浙江大学
+  url: "https://www.zju.edu.cn"
+- name: 代尔夫特理工大学
+  url: "https://www.tudelft.nl/en/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.

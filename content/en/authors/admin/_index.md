@@ -15,9 +15,9 @@ role: Professor of Artificial Intelligence
 # Organizations/Affiliations
 organizations:
 - name: Zhejiang University
-  url: ""
-- name: ""
-  url: ""
+  url: "https://www.zju.edu.cn/english/"
+- name: Delft University of Technology
+  url: "https://www.tudelft.nl/en/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
