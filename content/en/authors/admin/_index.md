@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Chair Professor and ERC Principal Investigator
 
 # Organizations/Affiliations
 organizations:
@@ -47,12 +47,21 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:p.p.s.ho@tudelft.nl'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=GlCGG30AAAAJ&hl
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Peter_Ho6
+- icon: rss
+  icon_pack: fas
+  link: https://peterho.netlify.com/index.xml
+- icon: weixin
+  icon_pack: fab
+  link: 
+- icon: twitter
+  icon_pack: fab
+  link: 
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -67,9 +76,9 @@ email: "p.p.s.ho@tudelft.nl"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
