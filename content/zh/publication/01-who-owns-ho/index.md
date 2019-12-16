@@ -35,7 +35,7 @@ featured: false
 links:
 - name: 分享
   url: https://www.ssap.com.cn/c/2014-10-09/1031074.shtml
-url_pdf: /publication/zh/01-who-owns-ho/01-who-owns-ho-v1.pdf
+url_pdf: zh/publication/01-who-owns-ho/01-who-owns-ho-v1.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

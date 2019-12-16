@@ -52,9 +52,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=GlCGG30AAAAJ&hl
-- icon: researchgate
+- icon: mendeley
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Peter_Ho6
+  link: https://www.mendeley.com/authors/57210548979/
 - icon: rss
   icon_pack: fas
   link: https://peterho.netlify.com/index.xml
