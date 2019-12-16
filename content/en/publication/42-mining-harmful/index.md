@@ -16,7 +16,7 @@ publishDate: "2019-04-16"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*The Extractive Industries and Society* Vol. 6(2), 584-592"
+publication: "*The Extractive Industries and Society* Vol. 6(2), 584--592"
 publication_short: ""
 
 abstract: "Mining activities often have significant impacts - both positive and negative - on local communities. This study shares experiences from China, surveying perspectives from rural communities on the net benefits of mining. Four indicators are identified and used to determine impact: employment opportunities, environmental pollution, land expropriation, land subsidence and associated resettlement. The analysis uses a demographically and economically diversified sample of 352 farmers residing in the vicinity of mines across six provinces. The study found that only a small number of farmers perceive mining to be providing net benefits, and that in such cases, direct employment is the main factor influencing this position. While land expropriation does not affect perceived net benefits, land subsistence does, and although relocation helps peasants minimize risks, it does not significantly change the population's generally negative view of mining. The priority for the Chinese government should be to formulate a sustainable framework to mitigate the risks of mining, particularly displacement and resettlement."

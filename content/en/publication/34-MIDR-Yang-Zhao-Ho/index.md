@@ -17,7 +17,7 @@ publishDate: "2017-07-10"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Resources Policy* Vol. 53, 408-418"
+publication: "*Resources Policy* Vol. 53, 408--418"
 publication_short: ""
 
 abstract: "Underground mining in China has incited severe land subsidence causing the forced eviction of millions of farmers. Here we report on one of the earliest Chinese studies on Mining-Induced Displacement and Resettlement (MIDR), based on a farm household survey (n = 230) and semi-structured interviews (n = 29) in Shaanxi, Shanxi, Shandong, Jiangsu, Chongqing and Hunan. It was found that displaced farmers were overall insufficiently compensated for mining-induced damage. Respondents expressed concerns over higher living costs in the relocation villages, and were ill-informed about resettlement schemes. We also found widespread conflict between farmers, mining companies and local government, this being the case in over two-thirds of the surveyed villages. Through additional institutional analysis it is ascertained that existing policies and laws predominantly focus on surface rather than underground mining. Compensation is rarely provided unless damage to land and housing has grown to unmanageable proportions. In result, displacement and resettlement is generally chosen as a sole, yet, final solution. The study includes cases on coal, lead, zinc and manganese. Based on the analysis, we call for a revision of mining policies and the establishment of state-supported compensation schemes in order to minimize conflict and farmers’ socio-economic vulnerability."
