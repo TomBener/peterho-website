@@ -1,7 +1,7 @@
 ---
 title: "Formalizing informal homes, a bad idea: The credibility thesis applied to China’s “extra-legal” housing"
 authors:
-- Ying Zheng
+- Li Sun
 - admin
 date: "2018-12-16"
 doi: ""
