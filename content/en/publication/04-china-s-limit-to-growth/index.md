@@ -1,12 +1,13 @@
 ---
-title: "Developmental Dilemmas: Land reform and institutional change in China"
+title: "China's Limits to Growth: Greening State and Society"
 authors:
 - admin
-date: "2005-03-15"
+- Eduard B. Vermeer
+date: "2006-10-15"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2005-03-15"
+publishDate: "2006-10-15"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -15,10 +16,21 @@ publishDate: "2005-03-15"
 publication_types: ["5"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Routledge*"
+publication: "*Blackwell Publishing*"
 publication_short: ""
 
-abstract: "Developmental Dilemmas singles out land as an object of study and places it in the context of one of the world's largest and most populous countries undergoing institutional reform: the People's Republic of China. The book demonstrates that private property protected by law, the principle of 'getting-the-prices-right', and the emergence of effectively functioning markets are the outcome of a given society's historical development and institutional fabric. Peter Ho argues that the successful creation of new institutions hinges in part on choice and timing in relation to the particular constellation of societal, economic, political and cultural parameters. Disregarding these could result in rising inequality, bad land stewardship, and the eruption of land-related grievances."
+abstract: "
+In this book a multi-disciplinary team of experts from around the world studies the environmental challenge posed by China’s phenomenal economic growth.
+
+- An exploration of the environmental challenge posed by China’s phenomenal economic growth.
+
+- Written by a multi-disciplinary team of experts from around the world.
+
+- Argues that China’s development poses the greatest ever challenge for the modern world in terms of speed, size and resource scarcity.
+
+- Discusses issues such as cleaner production, green car technology, resettlement resulting from dam building, and biotechnology.
+
+- Moves beyond the dichotomy between alarmist, radical views and moderate notions of incremental change."
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -27,8 +39,8 @@ featured: true
 
 links:
 - name: Share
-  url: https://www.routledge.com/Developmental-Dilemmas-Land-Reform-and-Institutional-Change-in-China/Ho/p/book/9780415497374
-url_pdf: /publication/03-developmental-dilemmas-full/03-Developmental-Dilemmas-full.pdf
+  url: https://www.wiley.com/en-us/China%27s+Limits+to+Growth%3A+Greening+State+and+Society-p-9781405153904
+url_pdf: /publication/04-china-s-limit-to-growth/04-China-s-Limit-to-growth.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -61,20 +73,25 @@ slides: ""
 
 ### **Table of Contents**
 
-- Archaeology of Institutions: A Theoretical Rebuttal of Neo-liberal Postulates of Development;  
-1. Institutional Change in China's Development: Myths of Tenure Security and Titling;
-2. In Defense of Endogenous Development: Urban and Rural Land Markets;
-3. The ‘Credibility Thesis' and its Application to Property Rights;
-4. A Theorem on Dynamic Disequilibrium: Debunking Path Dependence and Equilibrium;
-5. Understanding Informality and Insecurity: Empiricism as Basis for Institutionalism;
-6. Making and Unmaking the Property Bubble: Boom, Bust and Unintended Welfare?;
-7. Empty Institutions, Non-Credibility and Power: The Grazing Ban and Mining;
-- Conclusion: Theoretical Implications for Capital, Labor and Beyond
+**Part 1. From Developmental to Environmental Policies.**
+1. Trajectories for Greening in China: Theory and Practice: Peter Ho (Groningen University, NL).
+2. Environment and Modernity in Transitional China: Frontiers of Ecological Modernization: Arthur P. J. Mol (Wageningen University, NL).
+3. Implementation of Chinese Environmental Law: Regular Enforcement and Political Campaigns: Benjamin van Rooij (Leiden University, NL).
+
+**Part 2. The ‘Technological Fix’: Greening Industry and Business.**
+
+4. Effects of Economic and Environmental Reform on the Diffusion of Cleaner Coal Technology in China: Stephanie B. Ohshita (University of San Francisco, USA) and Leonard Ortolano (Stanford University, USA).
+5. Implementing Cleaner Production Programmes in Changzhou and Nantong, Jiangsu Province: Hongyan He Oliver (Harvard University, USA) and Leonard Ortolano (Stanford University, USA).
+6. Whither the Car? China’s Automobile Industry and Cleaner Vehicle Technologies: Jimin Zhao (University of Michigan, USA).
+7. Environmental Reform, Technology Policy, and Transboundary Pollution in Hong Kong: Richard Welford, Peter Hills and Jacqueline Lam (all at University of Hong Kong).
+
+**Part 3. Environmental Frictions? Dams, Agriculture and Biotechnology.**
+
+8. Resettlement Programmes and Environmental Capacity in the Three Gorges Dam Project: Gørild Heggelund (Fridtjof Nansen Institute, Norway).
+9. A Market Road to Sustainable Agriculture? Ecological Agriculture, Green Food and Organic Agriculture in China: Richard Sanders (University of Northampton, UK).
+10. Biotech and Food Safety in China: Consumers’ Acceptance or Resistance?: Peter Ho (Groningen University, NL), Eduard B. Vermeer (Leiden University, NL) and Jennifer H. Zhao (Wageningen University, NL).
+11. China’s Limits to Growth? The Difference between Absolute, Relative and Precautionary Limits: Peter Ho (Groningen University, NL) and Eduard Vermeer (Leiden University, NL).
 
 ### **Reactions**
 
-“The “Credibility Thesis” effectively articulated here is inspirational, innovative, and provocative with great potentials to advance theoretical inquiry into China's developmental model in a rapidly changing world.” **George C.S. Lin, The University of Hong Kong**
-
-“This is an important book that challenges many commonly held assumptions about what works in development. It should be read not only by those interested in China’s economic trajectory but also by anyone interested in development theory and the reality of development.” **Tony Saich, Harvard Kennedy School, Harvard University**
-
-“Mainstream economics is of little use in understanding China’s economic transitions since the late 1980s. Peter Ho is one of very few scholars capable of explaining the Chinese economy as it is rather than as western economists imagine—or wish—it to be. Attention must be paid to this message.” **Daniel W. Bromley, University of Wisconsin–Madison**
+“This is a fascinating and indispensable book for anyone interested in the environmental impact of China's economic growth. China's environmental problems will impact everyone on the globe sooner rather than later. Like many Westerners, I had formed my own simplistic ideas about how China might address some of these issues. From this book I learned not only that most of my bright ideas had been tried -- and had flopped -- long ago, but also learned about exactly how they went awry.” **A.J. Sutter, University of Wisconsin – River Falls**
