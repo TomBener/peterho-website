@@ -1,12 +1,12 @@
 ---
-title: "Greening Without Conflict? Environmentalism, NGOs and Civil Society in China"
+title: "Mao's War against Nature? The Environmental Impact of the Grain-First Campaign in China"
 authors:
 - admin
-date: "2002-12-16"
+date: "2003-07-17"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2002-12-16"
+publishDate: "2003-07-17"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -15,10 +15,10 @@ publishDate: "2002-12-16"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Development and Change* Vol. 32 893--921"
+publication: "*The China Journal* 50 37--59"
 publication_short: ""
 
-abstract: "This article argues that the specific features and dynamics of China’s environmentalism can be attributed to two factors: the ‘greening’ of the Chinese state at the time when environmentalism emerged, and the alternating politics of toleration and strict control of social organizations. As a result, environmentalism has developed in a gradual way, encompassing the various forms of ‘green’ NGOs that we see in the West and the ex–socialist states of Eastern and Central Europe. Yet, on the other hand, environmentalism was also robbed of the opportunity, as well as the immediate urgency, to openly confront the government. This is where it deviates from environmentalism in the West and the former Eastern–bloc countries."
+abstract: "It is generally assumed that agricultural policies in Maoist China – in particular through mass movements – have led to grave ecological destruction. The movement believed to have had the most catastrophic outcome is the “Grain-first campaign”, which allegedly urged farmers to cultivate as much grain as possible. It is said that in the arid, pastoral areas indiscriminate reclamation led to desertification and a dramatic drop in livestock numbers. However, this article demonstrates that there is a fundamental lack of concordance between textual sources written during the collectivist period versus those of the post-collectivist period. A filtering process is apparent: misrepresentation of the Grain-first movement as lopsidedly geared to grain self-sufficiency instead of integrated development; denial of the concern for environmental protection of certain mass campaigns (e.g. Learn-from-Dazhai and Wushenzhao movements); and the juggling of statistics to support an inaccurate reading of the Maoist era. The article argues that the Grain-first movement has become a powerful tool in directing the “historical gaze” towards an overly negative appraisal of the Maoist period. In turn, this caused a misguided interpretation of the socio-political context in which mass campaigns evolved."
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -27,8 +27,10 @@ featured: false
 
 links:
 - name: Share
-  url: https://sci-hub.tw/10.1111/1467-7660.00231
-url_pdf: /publication/06-ngoho/06-NgoHo.pdf
+  url: https://sci-hub.tw/10.2307/3182245
+- name: Figure
+  url: /publication/07-cjgrain/07b-CJgrainfigures1.pdf
+url_pdf: /publication/07-cjgrain/07a-CJgrainfinal1.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
