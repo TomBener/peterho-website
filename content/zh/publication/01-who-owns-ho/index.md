@@ -30,7 +30,7 @@ abstract: "本书利用了一整章新的内容分析了中国土地权利的最
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-featured: false
+featured: true
 
 links:
 - name: 分享

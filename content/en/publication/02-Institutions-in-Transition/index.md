@@ -23,7 +23,7 @@ abstract: "Studying institutional change regardless of whether it is focused on 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-featured: false
+featured: true
 
 links:
 - name: Share
