@@ -35,7 +35,7 @@ In this book a multi-disciplinary team of experts from around the world studies 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-featured: true
+featured: false
 
 links:
 - name: Share
