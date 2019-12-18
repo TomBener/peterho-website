@@ -48,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:p.p.s.ho@tudelft.nl'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:peter_ho@zju.edu.cn'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=GlCGG30AAAAJ&hl
