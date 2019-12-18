@@ -85,5 +85,5 @@ slides: ""
 ### 视频
 
 <a href="https://v.youku.com/v_show/id_XNzAwMDExMTc2.html" target="_blank">先晓会客厅：嵌入式行动主义在中国</a>
-<iframe id="video" width="100%" src="http://player.youku.com/embed/XNzAwMDExMTc2"  frameborder="0" allowfullscreen=""></iframe>
+<iframe id="video" width="100%" src="https://player.youku.com/embed/XNzAwMDExMTc2" allowfullscreen allowtransparency='yes'></iframe>
 <script type="text/javascript">document.getElementById("video").style.height=document.getElementById("video").scrollWidth*0.8+"px"</script>
