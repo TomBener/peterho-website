@@ -23,7 +23,7 @@ abstract: "Debates over tenure insecurity have been divided between those favori
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-featured: true
+featured: false
 
 links:
 - name: Share
