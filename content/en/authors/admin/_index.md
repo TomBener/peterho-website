@@ -55,9 +55,9 @@ social:
 - icon: mendeley
   icon_pack: ai
   link: https://www.mendeley.com/authors/57210548979/
-- icon: rss
-  icon_pack: fas
-  link: https://peterho.netlify.com/index.xml
+#- icon: rss
+#  icon_pack: fas
+#  link: https://peterho.netlify.com/index.xml
 - icon: weixin
   icon_pack: fab
   link: 
