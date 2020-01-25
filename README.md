@@ -5,6 +5,6 @@
 
 Powered by [Hugo](https://gohugo.io) and the [Academic theme](https://sourcethemes.com/academic/).
 
-Copyright 2019 — Present [Peter Ho](https://peterho.netlify.com).
+Copyright 2019 — 2020 [Peter Ho](https://peterho.netlify.com).
 
 Released under the [MIT License](https://github.com/TomBener/peterho-website/blob/master/LICENSE.md).
