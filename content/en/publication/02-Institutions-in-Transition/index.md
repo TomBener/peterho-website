@@ -2,11 +2,11 @@
 title: "Institutions in Transition – Land Ownership, Property Rights and Social Conflict in China"
 authors:
 - admin
-date: "2005-05-15"
+date: "2005-12-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2005-07-15"
+publishDate: "2005-12-01"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
