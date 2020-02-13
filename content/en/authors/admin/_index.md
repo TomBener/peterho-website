@@ -54,7 +54,7 @@ social:
   link: https://scholar.google.com/citations?user=GlCGG30AAAAJ&hl
 - icon: mendeley
   icon_pack: ai
-  link: https://www.mendeley.com/authors/57210548979/
+  link: https://www.mendeley.com/profiles/peter-ho3/
 #- icon: rss
 #  icon_pack: fas
 #  link: https://peterho.netlify.com/index.xml
