@@ -27,7 +27,7 @@ featured: true
 
 links:
 - name: Share
-  url: https://sci-hub.tw/10.1017/S030574100000401X
+  url: https://www.cambridge.org/core/books/unmaking-chinas-development/59B19F3C20DD906EF6A4167B2DD9C2D1#
 url_pdf: /publication/01-unmaking/01-Unmaking-China-s-Development-Ho-Intro2.pdf
 url_code: ''
 url_dataset: ''
